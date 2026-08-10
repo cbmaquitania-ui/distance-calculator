@@ -1,4 +1,4 @@
-# distance-calculator
+# Distance Between Two Points Calculator
 
 ## Description
 
